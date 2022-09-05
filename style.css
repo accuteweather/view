@@ -1,7 +1,11 @@
 *{
     font-family: "Rimouski";
 }
-
+body{
+    background-image:url('https://images.alphacoders.com/120/thumb-1920-120313.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
 .container{
     width:400px;
     height:500px;
