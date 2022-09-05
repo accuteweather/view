@@ -10,7 +10,7 @@ body{
     width:400px;
     height:500px;
     background-color:yellow;
-    box-shadow: 5px 10px 8px 10px #888888;
+    box-shadow: 3px 5px 3px 5px white;
     margin: 0 auto;
     border-radius: 20px;
 }
