@@ -2,16 +2,12 @@
     font-family: "Rimouski";
 }
 
-body{
-    background-size:cover;
-    background-repeat: no-repeat;
-}
-
-
 .container{
     display: block;
     height:100px;
     background-image: url('https://thumbs.gfycat.com/AbleClosedIndigowingedparrot-size_restricted.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
     margin: 0 auto;
     border-radius: 20px;
 }
