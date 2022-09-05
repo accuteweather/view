@@ -8,9 +8,9 @@ body{
 
 
 .container{
-    width: 400px;    
+    width: 100%;    
     background-color: yellow;
-    
+    height:100%;
     display: block;
     margin: 0 auto;
     
