@@ -9,6 +9,7 @@ body{
 
 .container{
     width: 400px;    
+    height: 200px
     background-color: yellow;
     display: block;
     margin: 0 auto;
