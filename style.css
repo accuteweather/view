@@ -10,13 +10,14 @@ body{
 
 
 .container{
-  
     display: block;
+    background-color:green;
     margin: 0 auto;
     border-radius: 10px;
 }
 
 .app-title{
+    
     width: 100%;
     height:100%
     border-radius: 10px 10px 0 0;
